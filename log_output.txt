@@ -1,0 +1,29 @@
+commit b0477a901b93063ff6c2f33d6d9c4fa74579a996
+Author: necip.ertem <ertemnecip@gmail.com>
+Date:   Fri Feb 18 11:21:02 2022 -0500
+
+    Added student number to file header
+
+commit 5738d5c3c88e06c856e740412ca57c57641b38b2
+Author: necip.ertem <ertemnecip@gmail.com>
+Date:   Thu Feb 17 17:39:43 2022 -0500
+
+    Made formatting corrections and added \n before and after last printf
+
+commit ad12c918e28df7386f8651096346fa7f801e45de
+Author: necip.ertem <ertemnecip@gmail.com>
+Date:   Thu Feb 17 16:20:55 2022 -0500
+
+    Added File header
+
+commit 6170d768d893c4a47cc8f8d228e232c3117607f8
+Author: necip.ertem <ertemnecip@gmail.com>
+Date:   Thu Feb 17 12:02:39 2022 -0500
+
+    Added inline comments
+
+commit 00037cb63155fe245ee4f99c63347d100a64a12d
+Author: necip.ertem <ertemnecip@gmail.com>
+Date:   Thu Feb 17 11:45:47 2022 -0500
+
+    Optimized code by removing seperate printf entries before loops and instead added repetitive prompt into a seperate for loop before the second for loop

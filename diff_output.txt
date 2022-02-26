@@ -1,0 +1,13 @@
+diff --git a/focused4.cpp b/focused4.cpp
+index 797b89f..3e96fa0 100644
+--- a/focused4.cpp
++++ b/focused4.cpp
+@@ -1,7 +1,7 @@
+ /*
+  * FILE : f4.cpp
+  * PROJECT : PROG1345 - Focused Assignment 4
+- * PROGRAMMER : Necip Ertem
++ * PROGRAMMER : Necip Ertem Student Number: 8800684
+  * FIRST VERSION : 2022-12-02
+  * SECOND VERSION: 2022-17-02
+  * DESCRIPTION : This program displays the smallest variable and its position in an array of 10 numbers, the numbers are entered by the user
